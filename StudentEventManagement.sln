@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentEventManagement", "StudentEventManagement\StudentEventManagement.csproj", "{8FB8A5F9-982C-41A3-896D-AB9B88E7CBF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentEventManagement.Tests", "StudentEventManagement.Tests\StudentEventManagement.Tests.csproj", "{8F80526A-047D-4B52-B106-BC874A8ED683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB8A5F9-982C-41A3-896D-AB9B88E7CBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB8A5F9-982C-41A3-896D-AB9B88E7CBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB8A5F9-982C-41A3-896D-AB9B88E7CBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB8A5F9-982C-41A3-896D-AB9B88E7CBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F80526A-047D-4B52-B106-BC874A8ED683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F80526A-047D-4B52-B106-BC874A8ED683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F80526A-047D-4B52-B106-BC874A8ED683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F80526A-047D-4B52-B106-BC874A8ED683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F01986-57B0-49E1-AC2B-2F594BC7C922}
+	EndGlobalSection
+EndGlobal
